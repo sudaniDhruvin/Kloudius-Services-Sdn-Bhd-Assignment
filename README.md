@@ -1,3 +1,5 @@
+# User Authentication App
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -57,6 +59,17 @@ npm run ios
 # OR using Yarn
 yarn ios
 ```
+
+## Features
+- AuthContext for state management.
+- Form validation with Formik/Yup.
+- AsyncStorage persistence.
+- Password toggle (bonus).
+- Navigation with React Navigation.
+
+## Demo Video
+https://drive.google.com/file/d/19GWRETgRbHyLx2q8A3xF3EoleiafFLx9/view?usp=sharing
+
 
 If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
 
