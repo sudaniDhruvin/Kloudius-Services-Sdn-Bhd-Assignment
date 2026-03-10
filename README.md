@@ -67,9 +67,10 @@ yarn ios
 - Password toggle (bonus).
 - Navigation with React Navigation.
 
+```sh
 ## Demo Video
 https://drive.google.com/file/d/19GWRETgRbHyLx2q8A3xF3EoleiafFLx9/view?usp=sharing
-
+```
 
 If everything is set up correctly, you should see your new app running in the Android Emulator, iOS Simulator, or your connected device.
 
